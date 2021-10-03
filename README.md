@@ -1,4 +1,4 @@
-## Git & Github LAB
+## Git & Github warmup
 
 *  Fork the repository
 *  `git clone` the repository
